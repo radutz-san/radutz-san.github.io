@@ -1,5 +1,3 @@
-# Hello
+# Posts
 
-Doing stuff.
-
--   [Post 1](01-post.md)
+-   [Post One](01-post.md)
